@@ -148,14 +148,6 @@ Smooth and differentiable
 
 Ideal for probability estimation
 
-Sigmoid Curve (Conceptual)
-
-1.0 ┤            ______
-    │          /
-0.5 ┤--------•--------
-    │       /
-0.0 ┼______/__________
-           z
 
 3. Binary Cross-Entropy Loss
 
